@@ -45,3 +45,6 @@ while cap.isOpened():
 cv2.destroyAllWindows()
 cap.release()
 out.release()
+
+##gdgd
+print('a')
