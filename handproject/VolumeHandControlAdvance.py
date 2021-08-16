@@ -7,9 +7,9 @@ from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 
-################################
+##################################
 wCam, hCam = 640, 480
-################################
+##################################
 
 cap = cv2.VideoCapture(1)
 cap.set(3, wCam)
