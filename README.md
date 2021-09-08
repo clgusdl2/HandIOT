@@ -1,5 +1,5 @@
 # HandIOT
-To run detection with our pre-trained model, you need
+To run detection with our pre-trained model, you need \n
 model.tflite
 poseDetection.py
 HandTrackingModule_volume.py
