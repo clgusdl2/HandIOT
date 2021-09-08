@@ -323,11 +323,3 @@ with mp_hands.Hands(min_detection_confidence=0.8, min_tracking_confidence=0.8) a
     cap.release()
     cv2.destroyAllWindows()
 #################################################################################
-    
-
-
-# 내일 할 것
-# 1영상 프레임 조절
-# 2'전등' '밝기' 훈련
-# 100코드 정리
-# arduino.close()
