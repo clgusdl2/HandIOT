@@ -16,6 +16,11 @@ dataCollection.py
 poseDetection_train_hands.py
 
 
+## Project video
+
+https://www.youtube.com/watch?v=5e_HkqlgWAk
+
+
 ## Reference video
 
 Pose detection
